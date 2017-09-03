@@ -1,13 +1,13 @@
 # IP Camera Bridge
 
-A MJPEG video streaming driver for Windows which can make your windows app using IP Camera as WebCam.
+A MJPEG video streaming driver for Windows which can make your Windows applications using IP Camera as WebCam.
 ![IP Camera Bridge](/Snapshots/main.jpg)
 
 **IP Camera Bridge requires Win7 (32 bit & 64 bit) and above!**
 
 # 1. Installation
 
-Download this project and unzip. Go to folder "IPCameraBridge\x86" double click install.bat to install. Click YES when UAC prompted and a dialog name "IP Camera Bridge Property" will show. Fill in each blank with you IP Camera url, user and password and click OK.
+Download this project and unzip. Go to folder "IPCameraBridge\x86" double click install.bat to install. Click YES when UAC prompted and a dialog name "IP Camera Bridge Property" will show. Fill in each blank with you IP Camera's url, user and password and click OK.
 
 ![Setup IP Camera Bridge](/Snapshots/cfg-en.png)
 
