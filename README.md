@@ -24,8 +24,10 @@ I have test the following application which IP Camera Bridge can work with it:
 * AMCap
 * Chrome
 * MPC-HC
+* Media Player Classic
 * PotPlayer
-* Teamviewer
+* KMPlayer
+* TeamViewer 12
 * QQ
 * Mission Planner
 * Python with OpenCV module
@@ -33,6 +35,8 @@ I have test the following application which IP Camera Bridge can work with it:
 * Adobe Live Flash Encoder
 * GraphEdit
 * GraphEditPlus
+
+Other applications based on DirectShow maybe supported :)
 
 You can also use many applications with IP Camera Bridge at the same time!
 
