@@ -7,20 +7,21 @@
 
 # 1. 安装
 
-下载此工程并解压，双击文件夹 "IPCameraBridge\x86" 下的install.bat安装. Click YES when UAC prompted and a dialog name "IP Camera Bridge Property" will show. Fill in each blank with you IP Camera url, user and password and click OK.
+下载此工程并解压，双击文件夹 "IPCameraBridge\x86" 下的install.bat安装。如果弹出UAV提示框，请点击“是” 。接下去将会弹出IP Camera Bridge属性对话框，填入你的IP摄像头的信息，单击确定！
 
-![Setup IP Camera Bridge](/Snapshots/cfg-en.png)
+![Setup IP Camera Bridge](/Snapshots/cfg-zh.png)
 
-IP Camera Bridge also provides 64 bit version of binary. You can install it like 32 bit version! 64 bit is used for 64 bit applications and 32 bit is used for 32 bit applications.
+IP Camera Bridge同样提供64位版本的二进制文件，同样安装上面的说明安装即可！
 
-# 2. Settings
+# 2. 设置
 
-You can set IP Camera Bridge when installing by running "install.bat". You can also use filter property dialog from host application to set.
+你可以在运行"install.bat"安装时进行设置。也可以通过宿主应用程序的滤镜选项进行设置，如下图所示：
+
 ![Setting IP Camera Bridge from host application](/Snapshots/filter-settings.png)
 
-# 3. Compatibility
+# 3. 兼容性
 
-I have test the following application which IP Camera Bridge can work with it:
+经过我的测试，以下应用程序可以与IP Camera Bridge完美工作:
 * AMCap
 * Chrome
 * MPC-HC
@@ -36,21 +37,21 @@ I have test the following application which IP Camera Bridge can work with it:
 * GraphEdit
 * GraphEditPlus
 
-Other applications based on DirectShow maybe supported :)
+其它基于DirectShow的应用程序应该也可以工作 :)
 
-You can also use many applications with IP Camera Bridge at the same time!
+你还可以同时在多个程序中同时使用！
 
 ![Using many applications with IP Camera Bridge at the same time](/Snapshots/multi-apps.png)
 
-**BUT, IP Camera Bridge cannot work with Modern App as I test!**
+**但是，IP Camera Bridge不能与Modern App协同工作！**
 
-# 4. Uninstall
+# 4. 卸载
 
-Run uninstall.bat and click YES when UAC prompted. **IP Camera Bridge will be removed from your disk.**
+运行uninstall.bat，并在弹出UAC提示框时点击“是”， **IP Camera Bridge将会从磁盘上移除。**
 
-# 5. Ads
+# 5. 广而告之
 
-Better with the following Apps:
+与以下App配合使用效果更加:
 
 * USB Camera for Android https://play.google.com/store/apps/details?id=com.shenyaocn.android.usbcamera
 * IP Camera for Android https://play.google.com/store/apps/details?id=com.shenyaocn.android.WebCam
