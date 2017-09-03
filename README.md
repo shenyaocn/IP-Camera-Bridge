@@ -13,6 +13,8 @@ Download this project and unzip. Go to folder "IPCameraBridge\x86" double click 
 
 IP Camera Bridge also provides 64 bit version of binary. You can install it like 32 bit version! 64 bit is used for 64 bit applications and 32 bit is used for 32 bit applications.
 
+**Select "IP Camera Bridge Plus" as the video capture device from your application and enjoy!**
+
 # 2. Settings
 
 You can set IP Camera Bridge when installing by running "install.bat". You can also use filter property dialog from host application to set.
