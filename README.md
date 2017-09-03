@@ -3,7 +3,7 @@
 A MJPEG video streaming driver for Windows which can make your windows app using IP Camera as WebCam.
 ![IP Camera Bridge](/Snapshots/main.jpg)
 
-**IP Camera Bridge require Win7 (32 bit & 64 bit) and above!**
+**IP Camera Bridge requires Win7 (32 bit & 64 bit) and above!**
 
 # 1. Installation
 
