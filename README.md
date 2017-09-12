@@ -1,6 +1,6 @@
 # IP Camera Bridge
 
-A MJPEG video streaming driver for Windows which can make your Windows applications using IP Camera as WebCam.
+A MJPEG video streaming and virtual microphone driver for Windows which can make your Windows applications using IP Camera as WebCam with audio input.
 ![IP Camera Bridge](/Snapshots/main.jpg)
 
 **IP Camera Bridge requires Win7 (32 bit & 64 bit) and above!**
@@ -13,7 +13,9 @@ Download this project and unzip. Go to folder "IPCameraBridge\x86" double click 
 
 IP Camera Bridge also provides 64 bit version of binary. You can install it like 32 bit version! 64 bit is used for 64 bit applications and 32 bit is used for 32 bit applications.
 
-**Select "IP Camera Bridge Plus" as the video capture device from your application and enjoy!**
+**Select "IP Camera Bridge Plus" as the video capture device and "IP Camera Bridge Audio" as the audio capture device from your application and enjoy!**
+
+![Select Device](/Snapshots/device_sel.png)
 
 # 2. Settings
 
@@ -46,13 +48,9 @@ You can also use many applications with IP Camera Bridge at the same time!
 
 **BUT, IP Camera Bridge cannot work with Modern App as I test!**
 
-# 4. Uninstall
+# 4. Act as Audio Capture Device (e.g. Virtual Microphone)
 
-Run uninstall.bat and click YES when UAC prompted. **IP Camera Bridge will be removed from your disk.**
-
-# 5. Ads
-
-Better with the following Apps:
+You should use the last version of following Apps if you also want to use IP Camera Bridge as Virtual Microphone. These apps can transfer the audio they capture to your Windows applications via network and IP Camera Bridge.
 
 * USB Camera for Android https://play.google.com/store/apps/details?id=com.shenyaocn.android.usbcamera
 * IP Camera for Android https://play.google.com/store/apps/details?id=com.shenyaocn.android.WebCam
@@ -60,5 +58,6 @@ Better with the following Apps:
 * IP Camera for Mac https://itunes.apple.com/cn/app/id1176420716
 * IP Camera for Windows http://apps.microsoft.com/windows/app/ip/0b4528ad-cae4-463e-997f-f6265a3364bf
 
-# Audio
-Coming soon ...
+# 5. Uninstall
+
+Close all of the applications and Run uninstall.bat and click YES when UAC prompted. **IP Camera Bridge will be removed from your disk.**
