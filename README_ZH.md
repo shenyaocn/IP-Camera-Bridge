@@ -1,6 +1,6 @@
 # IP Camera Bridge
 
-一个用于Windows的MJPEG视频流驱动程序，可以使您的Windows应用程序把《IP摄像头》作为电脑摄像头使用。
+一个用于Windows的MJPEG视频流和虚拟麦克风驱动程序，可以使您的Windows应用程序把《IP摄像头》作为带音频输入的电脑摄像头使用。
 ![IP Camera Bridge](/Snapshots/main.jpg)
 
 **IP Camera Bridge 需要Win7 (32位 或 64位) 或以上版本系统才能工作！**
@@ -13,7 +13,9 @@
 
 IP Camera Bridge同样提供64位版本的二进制文件，同样安装上面的说明安装即可！
 
-**从应用程序中选择 IP Camera Bridge Plus 作为视频捕获设备即可**
+**从应用程序中选择 IP Camera Bridge Plus 作为视频捕获设备，选择 IP Camera Bridge Audio 作为音频捕获设备即可**
+例如：
+![Select Device](/Snapshots/device_sel.png)
 
 # 2. 设置
 
@@ -47,13 +49,9 @@ IP Camera Bridge同样提供64位版本的二进制文件，同样安装上面�
 
 **但是，IP Camera Bridge不能与Modern App协同工作！**
 
-# 4. 卸载
+# 4. 作为音频捕获设备（例如，虚拟麦克风）
 
-运行uninstall.bat，并在弹出UAC提示框时点击“是”， **IP Camera Bridge将会从磁盘上移除。**
-
-# 5. 广而告之
-
-与以下App配合使用效果更加:
+如果您想使用IP Camera Bridge作为虚拟麦克风，您应该使用以下应用程序的最新版本。 这些应用程序可以通过网络和IP Camera Bridge将他们捕获的音频传输到Windows应用程序。
 
 * USB Camera for Android https://play.google.com/store/apps/details?id=com.shenyaocn.android.usbcamera
 * IP Camera for Android https://play.google.com/store/apps/details?id=com.shenyaocn.android.WebCam
@@ -61,3 +59,6 @@ IP Camera Bridge同样提供64位版本的二进制文件，同样安装上面�
 * IP Camera for Mac https://itunes.apple.com/cn/app/id1176420716
 * IP Camera for Windows http://apps.microsoft.com/windows/app/ip/0b4528ad-cae4-463e-997f-f6265a3364bf
 
+# 5. 卸载
+
+关闭所有程序，运行uninstall.bat，并在弹出UAC提示框时点击“是”， **IP Camera Bridge将会从磁盘上移除。**
