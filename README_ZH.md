@@ -57,7 +57,7 @@ IP Camera Bridge同样提供64位版本的二进制文件，同样安装上面�
 * IP Camera for Android https://play.google.com/store/apps/details?id=com.shenyaocn.android.WebCam
 * IP Camera for iOS https://itunes.apple.com/app/id990605467
 * IP Camera for Mac https://itunes.apple.com/cn/app/id1176420716
-* IP Camera for Windows https://www.microsoft.com/store/apps/9WZDNCRDMDRM
+* IP Camera for Windows https://www.microsoft.com/store/apps/9wzdncrdmdrm
 
 # 5. 卸载
 
