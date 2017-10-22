@@ -56,7 +56,7 @@ You should use the last version of following Apps if you also want to use IP Cam
 * IP Camera for Android https://play.google.com/store/apps/details?id=com.shenyaocn.android.WebCam
 * IP Camera for iOS https://itunes.apple.com/app/id990605467
 * IP Camera for Mac https://itunes.apple.com/cn/app/id1176420716
-* IP Camera for Windows http://apps.microsoft.com/windows/app/ip/0b4528ad-cae4-463e-997f-f6265a3364bf
+* IP Camera for Windows https://www.microsoft.com/store/apps/9WZDNCRDMDRM
 
 # 5. Uninstall
 
