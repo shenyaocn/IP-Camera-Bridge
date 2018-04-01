@@ -33,6 +33,7 @@ I have test the following application which IP Camera Bridge can work with it:
 * KMPlayer
 * TeamViewer 12
 * QQ
+* QGroundControl
 * Mission Planner
 * Python with OpenCV module
 * Skype (desktop version)
