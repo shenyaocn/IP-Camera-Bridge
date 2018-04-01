@@ -34,6 +34,7 @@ IP Camera Bridge同样提供64位版本的二进制文件，同样安装上面�
 * KMPlayer
 * TeamViewer 12
 * QQ
+* QGroundControl
 * Mission Planner
 * Python with OpenCV module
 * Skype (desktop version)
