@@ -21,8 +21,7 @@ if '%errorlevel%' NEQ '0' (
     pushd "%CD%"
     CD /D "%~dp0"
 
-set INSDIR="%ProgramFiles%\IPCameraBridge\x64"
-set INSDLL="%ProgramFiles%\IPCameraBridge\x64\IPCameraBridge.dll"
+Sset INSDLL="%ProgramFiles%\IPCameraBridge\x64\IPCameraBridge.dll"
 MD %INSDIR%
 COPY /Y IPCameraBridge.dll %INSDIR%
 REGSVR32.EXE /S %INSDLL%
